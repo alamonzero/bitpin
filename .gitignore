@@ -1,0 +1,4 @@
+.bitpin
+*.sqlite3
+*.idea
+*.pyc
